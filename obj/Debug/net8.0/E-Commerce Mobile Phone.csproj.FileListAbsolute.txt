@@ -1,0 +1,30 @@
+C:\Users\TA\source\repos\E-Commerce Mobile Phone\E-Commerce Mobile Phone\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\TA\source\repos\E-Commerce Mobile Phone\E-Commerce Mobile Phone\bin\Debug\net8.0\appsettings.json
+C:\Users\TA\source\repos\E-Commerce Mobile Phone\E-Commerce Mobile Phone\bin\Debug\net8.0\E-Commerce Mobile Phone.staticwebassets.runtime.json
+C:\Users\TA\source\repos\E-Commerce Mobile Phone\E-Commerce Mobile Phone\bin\Debug\net8.0\E-Commerce Mobile Phone.exe
+C:\Users\TA\source\repos\E-Commerce Mobile Phone\E-Commerce Mobile Phone\bin\Debug\net8.0\E-Commerce Mobile Phone.deps.json
+C:\Users\TA\source\repos\E-Commerce Mobile Phone\E-Commerce Mobile Phone\bin\Debug\net8.0\E-Commerce Mobile Phone.runtimeconfig.json
+C:\Users\TA\source\repos\E-Commerce Mobile Phone\E-Commerce Mobile Phone\bin\Debug\net8.0\E-Commerce Mobile Phone.dll
+C:\Users\TA\source\repos\E-Commerce Mobile Phone\E-Commerce Mobile Phone\bin\Debug\net8.0\E-Commerce Mobile Phone.pdb
+C:\Users\TA\source\repos\E-Commerce Mobile Phone\E-Commerce Mobile Phone\obj\Debug\net8.0\E-Commerce Mobile Phone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TA\source\repos\E-Commerce Mobile Phone\E-Commerce Mobile Phone\obj\Debug\net8.0\E-Commerce Mobile Phone.AssemblyInfoInputs.cache
+C:\Users\TA\source\repos\E-Commerce Mobile Phone\E-Commerce Mobile Phone\obj\Debug\net8.0\E-Commerce Mobile Phone.AssemblyInfo.cs
+C:\Users\TA\source\repos\E-Commerce Mobile Phone\E-Commerce Mobile Phone\obj\Debug\net8.0\E-Commerce Mobile Phone.csproj.CoreCompileInputs.cache
+C:\Users\TA\source\repos\E-Commerce Mobile Phone\E-Commerce Mobile Phone\obj\Debug\net8.0\E-Commerce Mobile Phone.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\TA\source\repos\E-Commerce Mobile Phone\E-Commerce Mobile Phone\obj\Debug\net8.0\E-Commerce Mobile Phone.RazorAssemblyInfo.cache
+C:\Users\TA\source\repos\E-Commerce Mobile Phone\E-Commerce Mobile Phone\obj\Debug\net8.0\E-Commerce Mobile Phone.RazorAssemblyInfo.cs
+C:\Users\TA\source\repos\E-Commerce Mobile Phone\E-Commerce Mobile Phone\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\TA\source\repos\E-Commerce Mobile Phone\E-Commerce Mobile Phone\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\TA\source\repos\E-Commerce Mobile Phone\E-Commerce Mobile Phone\obj\Debug\net8.0\staticwebassets\msbuild.E-Commerce Mobile Phone.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\TA\source\repos\E-Commerce Mobile Phone\E-Commerce Mobile Phone\obj\Debug\net8.0\staticwebassets\msbuild.build.E-Commerce Mobile Phone.props
+C:\Users\TA\source\repos\E-Commerce Mobile Phone\E-Commerce Mobile Phone\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.E-Commerce Mobile Phone.props
+C:\Users\TA\source\repos\E-Commerce Mobile Phone\E-Commerce Mobile Phone\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.E-Commerce Mobile Phone.props
+C:\Users\TA\source\repos\E-Commerce Mobile Phone\E-Commerce Mobile Phone\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\TA\source\repos\E-Commerce Mobile Phone\E-Commerce Mobile Phone\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\TA\source\repos\E-Commerce Mobile Phone\E-Commerce Mobile Phone\obj\Debug\net8.0\scopedcss\bundle\E-Commerce Mobile Phone.styles.css
+C:\Users\TA\source\repos\E-Commerce Mobile Phone\E-Commerce Mobile Phone\obj\Debug\net8.0\scopedcss\projectbundle\E-Commerce Mobile Phone.bundle.scp.css
+C:\Users\TA\source\repos\E-Commerce Mobile Phone\E-Commerce Mobile Phone\obj\Debug\net8.0\E-Commerce Mobile Phone.dll
+C:\Users\TA\source\repos\E-Commerce Mobile Phone\E-Commerce Mobile Phone\obj\Debug\net8.0\refint\E-Commerce Mobile Phone.dll
+C:\Users\TA\source\repos\E-Commerce Mobile Phone\E-Commerce Mobile Phone\obj\Debug\net8.0\E-Commerce Mobile Phone.pdb
+C:\Users\TA\source\repos\E-Commerce Mobile Phone\E-Commerce Mobile Phone\obj\Debug\net8.0\E-Commerce Mobile Phone.genruntimeconfig.cache
+C:\Users\TA\source\repos\E-Commerce Mobile Phone\E-Commerce Mobile Phone\obj\Debug\net8.0\ref\E-Commerce Mobile Phone.dll

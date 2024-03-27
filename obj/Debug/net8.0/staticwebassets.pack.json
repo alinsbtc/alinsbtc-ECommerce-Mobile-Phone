@@ -1,0 +1,761 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\E-Commerce Mobile Phone.bundle.scp.css",
+      "PackagePath": "staticwebassets\\E-Commerce Mobile Phone.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\blog-details.html",
+      "PackagePath": "staticwebassets\\blog-details.html"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\blog.html",
+      "PackagePath": "staticwebassets\\blog.html"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\check-out.html",
+      "PackagePath": "staticwebassets\\check-out.html"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\contact.html",
+      "PackagePath": "staticwebassets\\contact.html"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\css\\elegant-icons.css",
+      "PackagePath": "staticwebassets\\css\\elegant-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\css\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\css\\jquery-ui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\css\\nice-select.css"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\css\\slicknav.min.css",
+      "PackagePath": "staticwebassets\\css\\slicknav.min.css"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\css\\themify-icons.css",
+      "PackagePath": "staticwebassets\\css\\themify-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\faq.html",
+      "PackagePath": "staticwebassets\\faq.html"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\fonts\\ElegantIcons.eot",
+      "PackagePath": "staticwebassets\\fonts\\ElegantIcons.eot"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\fonts\\ElegantIcons.svg",
+      "PackagePath": "staticwebassets\\fonts\\ElegantIcons.svg"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\fonts\\ElegantIcons.ttf",
+      "PackagePath": "staticwebassets\\fonts\\ElegantIcons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\fonts\\ElegantIcons.woff",
+      "PackagePath": "staticwebassets\\fonts\\ElegantIcons.woff"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\fonts\\themify.eot",
+      "PackagePath": "staticwebassets\\fonts\\themify.eot"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\fonts\\themify.svg",
+      "PackagePath": "staticwebassets\\fonts\\themify.svg"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\fonts\\themify.woff"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\img\\_footer-logo.png",
+      "PackagePath": "staticwebassets\\img\\_footer-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\img\\banner-1.jpg",
+      "PackagePath": "staticwebassets\\img\\banner-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\img\\banner-2.jpg",
+      "PackagePath": "staticwebassets\\img\\banner-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\img\\banner-3.jpg",
+      "PackagePath": "staticwebassets\\img\\banner-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\img\\blog\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\img\\blog\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\img\\blog\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\img\\blog\\blog-4.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\img\\blog\\blog-5.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\img\\blog\\blog-6.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\img\\blog\\blog-detail-1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-detail-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\img\\blog\\blog-detail-2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-detail-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\img\\blog\\blog-detail-3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-detail-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\img\\blog\\blog-detail.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-detail.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\img\\blog\\next-blog.png",
+      "PackagePath": "staticwebassets\\img\\blog\\next-blog.png"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\img\\blog\\post-by.png",
+      "PackagePath": "staticwebassets\\img\\blog\\post-by.png"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\img\\blog\\prev-blog.png",
+      "PackagePath": "staticwebassets\\img\\blog\\prev-blog.png"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\img\\blog\\recent-1(1).jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\recent-1(1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\img\\blog\\recent-1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\recent-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\img\\blog\\recent-2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\recent-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\img\\blog\\recent-3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\recent-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\img\\blog\\recent-4.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\recent-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\img\\cart-page\\product-1.jpg",
+      "PackagePath": "staticwebassets\\img\\cart-page\\product-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\img\\cart-page\\product-2.jpg",
+      "PackagePath": "staticwebassets\\img\\cart-page\\product-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\img\\cart-page\\product-3.jpg",
+      "PackagePath": "staticwebassets\\img\\cart-page\\product-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\img\\flag-1.jpg",
+      "PackagePath": "staticwebassets\\img\\flag-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\img\\flag-2.jpg",
+      "PackagePath": "staticwebassets\\img\\flag-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\img\\footer-logo.png",
+      "PackagePath": "staticwebassets\\img\\footer-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\img\\hero-1.jpg",
+      "PackagePath": "staticwebassets\\img\\hero-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\img\\hero-2.jpg",
+      "PackagePath": "staticwebassets\\img\\hero-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\img\\hero-3.jpg",
+      "PackagePath": "staticwebassets\\img\\hero-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\img\\icon-1.png",
+      "PackagePath": "staticwebassets\\img\\icon-1.png"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\img\\icon-2.png",
+      "PackagePath": "staticwebassets\\img\\icon-2.png"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\img\\icon-3.png",
+      "PackagePath": "staticwebassets\\img\\icon-3.png"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\img\\insta-1.jpg",
+      "PackagePath": "staticwebassets\\img\\insta-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\img\\insta-2.jpg",
+      "PackagePath": "staticwebassets\\img\\insta-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\img\\insta-3.jpg",
+      "PackagePath": "staticwebassets\\img\\insta-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\img\\insta-4.jpg",
+      "PackagePath": "staticwebassets\\img\\insta-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\img\\insta-5.jpg",
+      "PackagePath": "staticwebassets\\img\\insta-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\img\\insta-6.jpg",
+      "PackagePath": "staticwebassets\\img\\insta-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\img\\latest-1.jpg",
+      "PackagePath": "staticwebassets\\img\\latest-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\img\\latest-2.jpg",
+      "PackagePath": "staticwebassets\\img\\latest-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\img\\latest-3.jpg",
+      "PackagePath": "staticwebassets\\img\\latest-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\img\\logo-carousel\\logo-1.png",
+      "PackagePath": "staticwebassets\\img\\logo-carousel\\logo-1.png"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\img\\logo-carousel\\logo-2.png",
+      "PackagePath": "staticwebassets\\img\\logo-carousel\\logo-2.png"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\img\\logo-carousel\\logo-3.png",
+      "PackagePath": "staticwebassets\\img\\logo-carousel\\logo-3.png"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\img\\logo-carousel\\logo-4.png",
+      "PackagePath": "staticwebassets\\img\\logo-carousel\\logo-4.png"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\img\\logo-carousel\\logo-5.png",
+      "PackagePath": "staticwebassets\\img\\logo-carousel\\logo-5.png"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\img\\logo2.png",
+      "PackagePath": "staticwebassets\\img\\logo2.png"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\img\\payment-method.png",
+      "PackagePath": "staticwebassets\\img\\payment-method.png"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\img\\product-single\\avatar-1.png",
+      "PackagePath": "staticwebassets\\img\\product-single\\avatar-1.png"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\img\\product-single\\avatar-2.png",
+      "PackagePath": "staticwebassets\\img\\product-single\\avatar-2.png"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\img\\product-single\\product-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product-single\\product-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\img\\product-single\\product-2.jpg",
+      "PackagePath": "staticwebassets\\img\\product-single\\product-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\img\\product-single\\product-3.jpg",
+      "PackagePath": "staticwebassets\\img\\product-single\\product-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\img\\product-single\\tab-desc.jpg",
+      "PackagePath": "staticwebassets\\img\\product-single\\tab-desc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\img\\product-single\\thumb-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product-single\\thumb-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\img\\product-single\\thumb-2.jpg",
+      "PackagePath": "staticwebassets\\img\\product-single\\thumb-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\img\\product-single\\thumb-3.jpg",
+      "PackagePath": "staticwebassets\\img\\product-single\\thumb-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\img\\products\\man-1.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\man-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\img\\products\\man-2.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\man-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\img\\products\\man-3.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\man-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\img\\products\\man-4.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\man-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\img\\products\\man-large.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\man-large.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\img\\products\\product-1.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\product-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\img\\products\\product-2.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\product-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\img\\products\\product-3.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\product-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\img\\products\\product-4.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\product-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\img\\products\\product-5.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\product-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\img\\products\\product-6.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\product-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\img\\products\\product-7.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\product-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\img\\products\\product-8.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\product-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\img\\products\\product-9.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\product-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\img\\products\\women-1.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\women-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\img\\products\\women-2.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\women-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\img\\products\\women-3.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\women-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\img\\products\\women-4.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\women-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\img\\products\\women-large.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\women-large.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\img\\select-product-1.jpg",
+      "PackagePath": "staticwebassets\\img\\select-product-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\img\\select-product-2.jpg",
+      "PackagePath": "staticwebassets\\img\\select-product-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\img\\time-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\time-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\js\\imagesloaded.pkgd.min.js",
+      "PackagePath": "staticwebassets\\js\\imagesloaded.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\js\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\js\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-ui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\js\\jquery.countdown.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.countdown.min.js"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\js\\jquery.dd.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.dd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\js\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\js\\jquery.slicknav.js",
+      "PackagePath": "staticwebassets\\js\\jquery.slicknav.js"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\js\\jquery.zoom.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.zoom.min.js"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\login.html",
+      "PackagePath": "staticwebassets\\login.html"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\product.html",
+      "PackagePath": "staticwebassets\\product.html"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\register.html",
+      "PackagePath": "staticwebassets\\register.html"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\shop.html",
+      "PackagePath": "staticwebassets\\shop.html"
+    },
+    {
+      "Id": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\wwwroot\\shopping-cart.html",
+      "PackagePath": "staticwebassets\\shopping-cart.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.E-Commerce Mobile Phone.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.E-Commerce Mobile Phone.props",
+      "PackagePath": "build\\E-Commerce Mobile Phone.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.E-Commerce Mobile Phone.props",
+      "PackagePath": "buildMultiTargeting\\E-Commerce Mobile Phone.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.E-Commerce Mobile Phone.props",
+      "PackagePath": "buildTransitive\\E-Commerce Mobile Phone.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
