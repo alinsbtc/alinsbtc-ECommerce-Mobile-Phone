@@ -1,0 +1,81 @@
+﻿@model E_Commerce_Mobile_Phone.ViewModels.RegisterVM
+
+@{
+    ViewData["Title"] = "Register";
+}
+
+<div class="register-login-section spad">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6 offset-lg-3">
+                <div class="login-form">
+                    <h2>Đăng Nhập</h2>
+                    <form action="#">
+                       
+                        <div class="group-input">
+                            <label for="pass">Mật khẩu</label>
+                            <input type="text" id="pass">
+                        </div>
+                        <form asp-action="Register">
+                            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                            <div class="group-input">
+                                <label asp-for="Fullname" class="control-label"></label>
+                                <input asp-for="Fullname" class="form-control" />
+                                <span asp-validation-for="Fullname" class="text-danger"></span>
+                            </div>
+                            <div class="group-input">
+                                <label asp-for="Username" class="control-label"></label>
+                                <input asp-for="Username" class="form-control" />
+                                <span asp-validation-for="Username" class="text-danger"></span>
+                            </div>
+                            <div class="group-input">
+                                <label asp-for="Password" class="control-label"></label>
+                                <input asp-for="Password" class="form-control" />
+                                <span asp-validation-for="Password" class="text-danger" id="pass"></span>
+                            </div>
+                            <div class="group-input">
+                                <label asp-for="Gender" class="control-label"></label>
+                                <input asp-for="Gender" class="form-control" />
+                                <span asp-validation-for="Gender" class="text-danger"></span>
+                            </div>
+                            <div class="group-input">
+                                <label asp-for="Birthday" class="control-label"></label>
+                                <input asp-for="Birthday" class="form-control" />
+                                <span asp-validation-for="Birthday" class="text-danger"></span>
+                            </div>
+                            <div class="group-input">
+                                <label asp-for="Address" class="control-label"></label>
+                                <input asp-for="Address" class="form-control" />
+                                <span asp-validation-for="Address" class="text-danger"></span>
+                            </div>
+                            <div class="group-input">
+                                <label asp-for="Phone" class="control-label"></label>
+                                <input asp-for="Phone" class="form-control" />
+                                <span asp-validation-for="Phone" class="text-danger"></span>
+                            </div>
+                            <div class="group-input">
+                                <label asp-for="Email" class="control-label"></label>
+                                <input asp-for="Email" class="form-control" />
+                                <span asp-validation-for="Email" class="text-danger"></span>
+                            </div>
+                            <div class="group-input">
+                                <input type="submit" value="Đang Ký" class="site-btn login-btn" />
+                                
+                            </div>
+                        </form>
+
+                       
+                    </form>
+                    <div class="switch-login"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<hr />
+
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+

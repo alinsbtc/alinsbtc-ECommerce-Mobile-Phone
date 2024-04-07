@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone.csproj": {}
+    "C:\\Users\\ASUS\\Desktop\\didong\\DoAnChuyenNganh\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone.csproj": {}
   },
   "projects": {
-    "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone.csproj": {
+    "C:\\Users\\ASUS\\Desktop\\didong\\DoAnChuyenNganh\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\didong\\DoAnChuyenNganh\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone.csproj",
         "projectName": "E-Commerce Mobile Phone",
-        "projectPath": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone.csproj",
-        "packagesPath": "C:\\Users\\TA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\TA\\source\\repos\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\obj\\",
+        "projectPath": "C:\\Users\\ASUS\\Desktop\\didong\\DoAnChuyenNganh\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ASUS\\Desktop\\didong\\DoAnChuyenNganh\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\TA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -44,6 +44,34 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.Google": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "SendGrid": {
+              "target": "Package",
+              "version": "[9.29.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -63,7 +91,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

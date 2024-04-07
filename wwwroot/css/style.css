@@ -3890,6 +3890,9 @@ ol {
 /* ------------------------------ Responsive Media Styles ---------------------------- */
 
 @media only screen and (min-width: 1200px) and (max-width: 1920px) {
+	.laptop-banner-container {
+		padding: 0px 80px;
+	}
 	.inner-header .advanced-search .input-group button {
 		right: -14px;
 	}
@@ -3952,7 +3955,7 @@ ol {
 	.single-banner {
 		margin-bottom: 30px;
 	}
-	.women-banner {
+	.laptop-banner {
 		padding-right: 0;
 		padding-left: 0;
 	}
@@ -3967,7 +3970,7 @@ ol {
 	.product-slider .owl-nav button[type=button] {
 		display: none;
 	}
-	.man-banner {
+	.dienthoai-banner {
 		padding-right: 0;
 		padding-left: 0;
 	}

@@ -1,0 +1,22 @@
+﻿
+@{
+    ViewData["Title"] = "Logout";
+}
+
+<html>
+<head>
+    <title>Logout</title>
+    <!-- Add your CSS and other necessary scripts here -->
+</head>
+<body>
+    <div>
+        <h1>Logout</h1>
+        <p>Are you sure you want to logout?</p>
+        <form id="logoutForm" method="post">
+            <button type="submit">Logout</button>
+            @* Add anti-forgery token *@
+            @Html.AntiForgeryToken()
+        </form>
+    </div>
+</body>
+</html>

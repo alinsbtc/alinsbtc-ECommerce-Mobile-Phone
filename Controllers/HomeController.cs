@@ -1,4 +1,6 @@
+using E_Commerce_Mobile_Phone.Data;
 using E_Commerce_Mobile_Phone.Models;
+using E_Commerce_Mobile_Phone.ViewModels;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
@@ -6,16 +8,25 @@ namespace E_Commerce_Mobile_Phone.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
-
-        public HomeController(ILogger<HomeController> logger)
+        private readonly EcAlinContext db;
+        public HomeController(EcAlinContext context)
         {
-            _logger = logger;
+            db = context;
         }
 
         public IActionResult Index()
         {
-            return View();
+            var products = db.DbProducts.AsQueryable();
+            var result = products.Select(p => new ProductVM
+            {
+                Id = p.Id,
+                Name = p.Name,
+                Avatar = p.Avatar,
+                Price = p.Price,
+                PriceSale = p.PriceSale,
+                Img = p.Img,
+            });
+            return View(result);
         }
 
         public IActionResult Privacy()
@@ -28,5 +39,7 @@ namespace E_Commerce_Mobile_Phone.Controllers
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
+
+   
     }
 }

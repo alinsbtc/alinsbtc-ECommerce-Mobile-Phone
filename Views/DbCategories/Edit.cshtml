@@ -1,0 +1,101 @@
+﻿@model E_Commerce_Mobile_Phone.Data.DbCategory
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>DbCategory</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Id" />
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Link" class="control-label"></label>
+                <input asp-for="Link" class="form-control" />
+                <span asp-validation-for="Link" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Level" class="control-label"></label>
+                <input asp-for="Level" class="form-control" />
+                <span asp-validation-for="Level" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Parentid" class="control-label"></label>
+                <input asp-for="Parentid" class="form-control" />
+                <span asp-validation-for="Parentid" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Orders" class="control-label"></label>
+                <input asp-for="Orders" class="form-control" />
+                <span asp-validation-for="Orders" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Color" class="control-label"></label>
+                <input asp-for="Color" class="form-control" />
+                <span asp-validation-for="Color" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CreatedAt" class="control-label"></label>
+                <input asp-for="CreatedAt" class="form-control" />
+                <span asp-validation-for="CreatedAt" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CreatedBy" class="control-label"></label>
+                <input asp-for="CreatedBy" class="form-control" />
+                <span asp-validation-for="CreatedBy" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="UpdatedAt" class="control-label"></label>
+                <input asp-for="UpdatedAt" class="form-control" />
+                <span asp-validation-for="UpdatedAt" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="UpdatedBy" class="control-label"></label>
+                <input asp-for="UpdatedBy" class="form-control" />
+                <span asp-validation-for="UpdatedBy" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="Trash" /> @Html.DisplayNameFor(model => model.Trash)
+                </label>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="Access" /> @Html.DisplayNameFor(model => model.Access)
+                </label>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="Status" /> @Html.DisplayNameFor(model => model.Status)
+                </label>
+            </div>
+            <div class="form-group">
+                <label asp-for="Metakey" class="control-label"></label>
+                <input asp-for="Metakey" class="form-control" />
+                <span asp-validation-for="Metakey" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Metadesc" class="control-label"></label>
+                <input asp-for="Metadesc" class="form-control" />
+                <span asp-validation-for="Metadesc" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
